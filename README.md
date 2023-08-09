@@ -1,2 +1,2 @@
 # Quantum
-This is my studying repository of quantum computation.
+This is the repository where I'm studying quantum computation.
